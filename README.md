@@ -1,12 +1,52 @@
-- 👋 Hi, I’m Sparsh Dubey
-- 👀 I’m interested in Football (Soccer), Learning new things and computer.
-- Idol - Lionel Messi
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on doing my best and working hard to live a healthy life and to achieve the goals of the company I work for.
-- 📫 How to reach me via mail or social media
-- 😄 Pronouns: he/him
+# Hi there 👋, I'm Sparsh Dubey
 
-<!---
-sparshdmq/sparshdmq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Recent **Master of Data Science** graduate from **Macquarie University, Sydney, Australia**.
+
+I'm passionate about **Data Science, Machine Learning, Artificial Intelligence, and Data Analytics**. I enjoy solving real-world problems with data and continuously expanding my knowledge by building practical projects.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Master of Data Science graduate from Macquarie University
+- 💻 Interested in Data Science, Machine Learning, AI, and Business Intelligence
+- 📊 Skilled in Python, SQL, Power BI, Pandas, NumPy, Scikit-learn, and Data Visualization
+- 🌱 Currently improving my knowledge of Deep Learning, NLP, and Generative AI
+- ⚽ Football (Soccer) enthusiast and a lifelong Lionel Messi fan
+- 🤝 Open to collaborating on Data Science and Machine Learning projects
+- 🎯 Seeking graduate opportunities as a **Data Scientist**, **Data Analyst**, or **Machine Learning Engineer**
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Machine Learning:** Regression, Classification, Clustering, Feature Engineering
+- **Visualization:** Power BI, Tableau, Excel
+- **Tools:** Git, GitHub, Jupyter Notebook, VS Code
+
+---
+
+## 📂 Featured Projects
+
+- 📈 Customer Churn Prediction
+- 🏡 House Price Prediction
+- 🎬 Movie Recommendation System
+- 📊 Sales Dashboard using Power BI
+- 💳 Credit Card Fraud Detection
+
+---
+
+## 📜 Certifications
+
+- Generative AI for Data Science with Microsoft Copilot
+- Microsoft Power BI
+
+---
+
+## 📫 Connect With Me
+
+- 📧 **Email:** sparsh.d489@gmail.com
+- 💼 **LinkedIn:** https://linkedin.com/in/sparsh-dubey-6038b9274
+- 💻 **GitHub:** https://github.com/sparshdmq
