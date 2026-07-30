@@ -12,7 +12,7 @@ I'm passionate about **Data Science, Machine Learning, Artificial Intelligence, 
 - 💻 Interested in Data Science, Machine Learning, AI, and Business Intelligence
 - 📊 Skilled in Python, SQL, Power BI, Pandas, NumPy, Scikit-learn, and Data Visualization
 - 🌱 Currently improving my knowledge of Deep Learning, NLP, and Generative AI
-- ⚽ Football (Soccer) enthusiast and a lifelong Lionel Messi fan
+- ⚽ Football enthusiast
 - 🤝 Open to collaborating on Data Science and Machine Learning projects
 - 🎯 Seeking graduate opportunities as a **Data Scientist**, **Data Analyst**, or **Machine Learning Engineer**
 
